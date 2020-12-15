@@ -37,3 +37,4 @@ out/
 *.jar
 *.war
 *.ear
+/bin/
